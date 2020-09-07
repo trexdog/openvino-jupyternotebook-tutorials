@@ -102,6 +102,12 @@ To run the tutorials, the Intel® Distribution of OpenVINO™ toolkit and its de
 
 **Note**: It is recommended that JupyterLab* be installed into directories owned by the user (e.g. the user's home directory using `conda` or  using `pip` with `install --user`) and not installed into system directories that require root permissions.  This will allow the user to more easily make modifications to the JupyterLab* configuration such as installing extensions using the JupyterLab* Extension Manager.
 
+#### Python* libraries
+The following Python* libraries may also need to be installed:  
+**Note**: The necessary Python* libraries must be installed using the same method that JupyterLab* was installed using `conda` or `pip`.
+
+- [matplotlib](https://matplotlib.org/) - pyplot is used for displaying output images within Jupyter* Notebooks
+
 #### [Git](https://git-scm.com/)
 
 The `git` utility or equivalent must be already installed to download the tutorials from the GitHub repository.
@@ -130,7 +136,7 @@ The first thing we need to do is create a place for the Jupyter* Notebook tutori
 	```
 4. Change to the top of the git repository and check out correct version:
 	```bash
-	cd Tutorials
+	cd openvino-jupyternotebook-tutorials
 	git checkout openvino_toolkit_2020_4
 	```
 
@@ -140,10 +146,10 @@ After the tutorials are downloaded, JupyterLab* may be started to run the Jupyte
 
 1. Bring up a command shell prompt by opening a terminal (such as xterm) or selecting a terminal that is already open.
 
-2. Change to the `jnb_tutorials` directory, this will become the top directory view within JupyterLab*:
+2. Change to the `jnb_tutorials/openvino-jupyternotebook-tutorials` directory, this will become the top directory view within JupyterLab*:
 
    ```bash
-   cd ~/jnb_tutorials
+   cd ~/jnb_tutorials/openvino-jupyternotebook-tutorials
    ```
    
 3. Ensure the command line is setup to use the Intel® Distribution of OpenVINO™ toolkit executables and libraries by source-ing the necessary setup script:
