@@ -34,7 +34,7 @@ Jupyter* Notebook tutorials are provided to demonstrate step-by-step how to use 
 	- Report performance counters
 	- Cleanup
 	
-- [Object Detection Tutorial](./Tutorials/object_detection/tutorial_object_detection_ssd.ipynb)	(See the completed tutorial with output [here](./Tutorials/object_detection/tutorial_object_detection_ssd_completed.ipynb))
+- [Object Detection Tutorial](./object_detection/tutorial_object_detection_ssd.ipynb)	(See the completed tutorial with output [here](./object_detection/tutorial_object_detection_ssd_completed.ipynb))
 	- Prerequisites
 	- Introduction
 		- Key concepts
@@ -58,7 +58,7 @@ Jupyter* Notebook tutorials are provided to demonstrate step-by-step how to use 
 	- Cleanup
 
 
-- [Style Transfer Tutorial](./Tutorials/style_transfer/tutorial_style_transfer_sample.ipynb)	(See the completed tutorial with output [here](./Tutorials/style_transfer/tutorial_style_transfer_sample_completed.ipynb))
+- [Style Transfer Tutorial](./style_transfer/tutorial_style_transfer_sample.ipynb)	(See the completed tutorial with output [here](./style_transfer/tutorial_style_transfer_sample_completed.ipynb))
 	- Prerequisites
 	- Introduction
 		- Key concepts
