@@ -6,4 +6,5 @@
 
 ## To go to the compatible Jupyter* Notebook tutorials, please choose the [Intel® Distribution of OpenVINO™ toolkit](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) release being used:
 
-- ### [Release 2020.4](https://github.com/trexdog/openvino-jupyternotebook-tutorials/tree/openvino_toolkit_2020_4)
+- ### [Release 2020.4](https://github.com/trexdog/openvino-jupyternotebook-tutorials/tree/openvino_toolkit_2020_4/Tutorials)
+
