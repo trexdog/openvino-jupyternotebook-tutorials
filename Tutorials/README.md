@@ -126,7 +126,7 @@ The first thing we need to do is create a place for the Jupyter* Notebook tutori
 	```
 3. Clone the repository:
 	```bash
-	git clone https://github.com/TODO.git
+	git clone https://github.com/trexdog/openvino-jupyternotebook-tutorials.git
 	```
 4. Change to the top of the git repository and check out correct version:
 	```bash
